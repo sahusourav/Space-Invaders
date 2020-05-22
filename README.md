@@ -1,10 +1,10 @@
 # Space Invaders
 
-Genre
+#### Genre
 
 > Game
 
-Language Used:- 
+#### Language Used
 
 > Python3
 
@@ -23,4 +23,4 @@ Language Used:-
 
 Instructor:- @attreyabhatt
 
-##### Made with ♡
+###                                                    Made with ♡
