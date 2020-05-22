@@ -19,7 +19,7 @@ Language Used:-
    pip install pygame
    ```
 4. Download the whole repository.
-5. Run ``` ** main.py ** ``` program.
+5. Run ** main.py **  program.
 
 Instructor:- @attreyabhatt
 
