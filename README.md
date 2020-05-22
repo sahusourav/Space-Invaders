@@ -1,2 +1,3 @@
-# spaceinvader.github.io
-Space Invaders Game
+# Space Invaders
+
+Genre:- Game
