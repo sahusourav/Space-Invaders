@@ -2,11 +2,11 @@
 
 #### Genre
 
-> Game
+> Game 🎮
 
 #### Language Used
 
-> Python3
+> Python3 🐍
 
 ## Instructions
 
@@ -20,7 +20,8 @@
    ```
 4. Download the whole repository.
 5. Run **main.py**  program.
+6. Enjoy the game.😋
 
 Instructor:- @attreyabhatt
 
-###                                                    Made with ♡
+### Made with ❤️
